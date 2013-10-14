@@ -1,1 +1,1 @@
-include "jax-ws"
+include "jax-ws", "spring-ws"
