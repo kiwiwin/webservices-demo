@@ -1,0 +1,12 @@
+dependencies {
+    repositories {
+        mavenCentral()
+    }
+
+    compile(
+            "org.springframework.ws:spring-ws-core:2.0.5.RELEASE",
+            "jdom:jdom:1.0",
+            "jaxen:jaxen:1.1",
+            "xalan:xalan:2.7.1"
+    )
+}
